@@ -1,0 +1,47 @@
+body {
+    background-image: url("../img/bg.jpg");
+    color: #d1f2fe;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: #ff00e7de;
+}
+
+.home h2 {
+  font-family: cursive;
+  font-size: 50px;
+  text-indent: 100px;
+}
+
+.home h3 {
+  text-indent: 60px;
+}
+
+.home p {
+  background-color: #0ccbd696;
+  padding: 20px;
+  border-radius: 5px;
+  text-indent: 50px;
+  text-align: justify;
+  width: 50%;
+}
+
+.me h2 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.me p {
+  text-align: center;
+  margin-top: 5px;
+}
+
+a {
+  color: #ff00e7de;
+}
+
+a:visited {
+  color: aqua;
+}
